@@ -1,0 +1,15 @@
+{
+  "name": "file-sorting",
+  "version": "1.0.0",
+  "description": "read file names and timestamps and sort files",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "jordan": "electron ."
+  },
+  "author": "DonMikele",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^10.1.3"
+  }
+}
